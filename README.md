@@ -1,3 +1,6 @@
+
+
+
 ## 🚀 About Me
 
 Soy **Ronaldd Romero**, estudiante de **Ingeniería de Sistemas** en la *Universidad Nacional de Trujillo (Perú)* 🇵🇪  
@@ -46,10 +49,9 @@ Me encuentro en constante aprendizaje, aplicando buenas prácticas de desarrollo
 ![AJAX](https://img.shields.io/badge/AJAX-75%25-005571?style=for-the-badge&logo=jquery&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade_(Laravel)-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+
 ---
 
-<p align="center">
-  <img src="https://chatgpt.com/s/m_69dffd87fb3c8191a21e9a5031605fa2" alt="Firma Ronaldd Romero" width="400"/>
+<p align="left">
+  <img src="image.png" alt="Firma Ronaldd Romero" width="400"/>
 </p>
-
-
