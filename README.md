@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Soy **Ronaldd Romero**, estudiante de **Ingeniería de Sistemas** en la *Universidad Nacional de Trujillo (Perú)* 🇵🇪  
+Soy **Ronaldd Robles**, estudiante de **Ingeniería de Sistemas** en la *Universidad Nacional de Trujillo (Perú)* 🇵🇪  
 
 Enfocado en el desarrollo de aplicaciones web robustas, con especial interés en **backend con Laravel**, diseño de **bases de datos eficientes** y construcción de sistemas escalables.
 
